@@ -1,7 +1,7 @@
-# 医总管管理平台
+# 后台管理平台
 > A Vue.js project
 * 创建时间：2018年3月6日
-* 创建团队：易迅通web前端开发组
+* 创建人：陈兴旭
 * 开发环境：WebStorm+ES6+WebPack+Gulp+Vue+Vuex+Vue-router+Axios+Element-UI+Scss
 
 ## 安装使用
